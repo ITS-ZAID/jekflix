@@ -1,22 +1,22 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: The Mods Zone | A Android Apps Modding/Mods Website.
+email: itsunknown122@gmail.com
+description: You Can Get Lots Of Modified Application 😊. Free & Working Mods.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://themodszone.com" # the base hostname & protocol for your site
+url: "https://themodszone.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: TheModsZone
+user_description: I'm Just Trying To Learn Something 👀.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+github_username: Itz-zaid
 facebook_username: facebook_username
 twitter_username: twitter_username
-instagram_username: instagram_username
+instagram_username: Timesisnotwaiting
 linkedin_username: linkedin_username
 medium_username: medium_username
 
